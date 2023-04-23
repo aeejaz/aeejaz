@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aejazkhan414@gmail.com**
 
-- ⚡ Fun fact **Coffee is the secret of my all good Code :))**
+- ⚡ Fun fact **don't have a look at my skills in dark mode**
 
 
 
