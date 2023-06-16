@@ -41,5 +41,5 @@
 
 <a href="http://www.github.com/aeejaz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aeejaz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
+[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeejaz&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
