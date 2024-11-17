@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Khan Ejaj</h1>
 <h2 align="center">All About Web Development, Web3 & AI</h2>
@@ -7,11 +7,11 @@
 
 ### about me
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Web Development, Web3 & AI**
+- 💬 Ask me about **Web Development, ML & AI**
 
-- 📫 How to reach me **aejazkhan414@gmail.com**
+- 📫 How to reach me **Dm Me on Linkedin/X(@aeejazkhan)**
 
 - ⚡ Fun fact **don't have a look at my skills in dark mode**
 
